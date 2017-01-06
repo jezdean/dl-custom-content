@@ -1,0 +1,5 @@
+plugins:
+  sidebar_custom_content:
+    type: text
+    default: ''
+    client: true
