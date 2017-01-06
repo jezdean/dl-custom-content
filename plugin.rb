@@ -1,4 +1,4 @@
-# name: discourse-layouts-html
+# name: sidebar-custom-content
 # about: Include arbitary HTML in a Discourse sidebar with discourse-layouts
 # version: 0.0.1
 # authors: Jez Dean
