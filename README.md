@@ -1,4 +1,6 @@
 ### Discourse Layouts -- HTML Widget
+#### `dl-custom-content`
 
-This uses the awesome [Discourse Layouts](https://github.com/angusmcleod/discourse-layouts) to insert a widget containing arbitrary HTML.
+`dl-custom-content` is a plugin for Discourse. The awesome [Discourse Layouts](https://github.com/angusmcleod/discourse-layouts) is required for use.
+
 

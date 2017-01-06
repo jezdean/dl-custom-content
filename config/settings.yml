@@ -1,5 +1,5 @@
 plugins:
-  sidebar_custom_content:
+  dl_custom_content:
     type: text
     default: ''
     client: true
