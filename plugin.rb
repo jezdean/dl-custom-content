@@ -6,6 +6,7 @@
 
 after_initialize do
   SiteSetting.class_eval do
-    @choices[:layouts_sidebar_right_widgets, :layouts_sidebar_left_widgets].push('dl-custom-content')
+    @choices[:layouts_sidebar_right_widgets].push('dl-custom-content')
+    @choices[:layouts_sidebar_left_widgets].push('dl-custom-content')
   end
 end
